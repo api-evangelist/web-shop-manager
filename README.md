@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Web Shop Manager is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://webshopmanager.com/
+Web Shop Manager provides a cloud‑based platform that enables merchants to create, manage, and scale their online stores with integrated inventory, order processing, payment gateways, and analytics. The solution offers customizable storefront themes, multi‑channel sales support, and robust APIs for developers to extend functionality, automate workflows, and integrate third‑party services. Targeted at small to medium‑size businesses, it aims to simplify e‑commerce operations while delivering a seamless shopping experience for end‑customers.
+
+**Areas:** eCommerce · Automotive · SaaS · B2B · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://webshopmanager.com/)
+- [Documentation](https://help.webshopmanager.com/)
+- [Getting started](https://help.webshopmanager.com/google-analytics-site-search-tracking-setup)
+- [Pricing](https://webshopmanager.com/pricing/)
+- [Sign up](https://webshopmanager.com/sign-up-for-wsm-text-alerts/)
+- [Blog](https://webshopmanager.com/blog/)
+- [Privacy policy](https://webshopmanager.com/privacy-policy/)
+- [GitHub](https://github.com/webshopmanager)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/web-shop-manager/](https://apis.io/providers/web-shop-manager/).
